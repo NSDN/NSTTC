@@ -38,24 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=NSTTL.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FGJQGXPG
-
-[Document2]
-DocumentPath=NSTTL.PcbDoc
+DocumentPath=NSTTC.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -71,8 +54,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PVKWAOFD
 
+[Document2]
+DocumentPath=NSTTC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FGJQGXPG
+
 [Document3]
-DocumentPath=NSDN-40mm.PcbLib
+DocumentPath=Util.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XNENWXUY
 
 [Document4]
-DocumentPath=NSDN_40mm.SchLib
+DocumentPath=Util.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,95 +106,95 @@ GenerateClassCluster=0
 DocumentUniqueId=XIPSRNTK
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for NSTTL\Design Rule Check - NSTTL.html
+DocumentPath=Project Outputs for NSTTC\Design Rule Check - NSTTC.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for NSTTL\NSTTL-RoundHoles-NonPlated.TXT
+DocumentPath=Project Outputs for NSTTC\NSTTC-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for NSTTL\NSTTL-RoundHoles-Plated.TXT
+DocumentPath=Project Outputs for NSTTC\NSTTC-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for NSTTL\NSTTL-SlotHoles-Plated.TXT
+DocumentPath=Project Outputs for NSTTC\NSTTC-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for NSTTL\NSTTL.DRR
+DocumentPath=Project Outputs for NSTTC\NSTTC.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for NSTTL\NSTTL.EXTREP
+DocumentPath=Project Outputs for NSTTC\NSTTC.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GBL
+DocumentPath=Project Outputs for NSTTC\NSTTC.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GBO
+DocumentPath=Project Outputs for NSTTC\NSTTC.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GBP
+DocumentPath=Project Outputs for NSTTC\NSTTC.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GBS
+DocumentPath=Project Outputs for NSTTC\NSTTC.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GD1
+DocumentPath=Project Outputs for NSTTC\NSTTC.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GKO
+DocumentPath=Project Outputs for NSTTC\NSTTC.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GM13
+DocumentPath=Project Outputs for NSTTC\NSTTC.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GM15
+DocumentPath=Project Outputs for NSTTC\NSTTC.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GPB
+DocumentPath=Project Outputs for NSTTC\NSTTC.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GPT
+DocumentPath=Project Outputs for NSTTC\NSTTC.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GTL
+DocumentPath=Project Outputs for NSTTC\NSTTC.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GTO
+DocumentPath=Project Outputs for NSTTC\NSTTC.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GTP
+DocumentPath=Project Outputs for NSTTC\NSTTC.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for NSTTL\NSTTL.GTS
+DocumentPath=Project Outputs for NSTTC\NSTTC.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for NSTTL\NSTTL.LDP
+DocumentPath=Project Outputs for NSTTC\NSTTC.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for NSTTL\NSTTL.REP
+DocumentPath=Project Outputs for NSTTC\NSTTC.REP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for NSTTL\NSTTL.RUL
+DocumentPath=Project Outputs for NSTTC\NSTTC.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -316,7 +316,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -410,7 +410,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
